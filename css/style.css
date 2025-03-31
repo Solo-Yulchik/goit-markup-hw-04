@@ -391,6 +391,8 @@ button {
   position: absolute;
   top: 0;
   left: 0;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
   background-color: #4d5ae5;
   padding: 40px 32px;
   color: #f4f4fd;
@@ -427,10 +429,6 @@ button {
   margin-bottom: 8px;
 }
 
-.portfolio-text {
-  line-height: 1.5;
-  letter-spacing: 0.02em;
-}
 /* ------------------PORTFOLIO------------------------------ */
 
 /* ------------------FOOTER------------------------------ */
